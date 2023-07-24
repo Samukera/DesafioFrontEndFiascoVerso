@@ -3,7 +3,7 @@ export default function Card(){
     <>
     <div className="flex mt-6 m-4 lg:hidden">
         <div className="card card-compact w-80 bg-white shadow-xl">
-            <figure><img src="../../images/image-product-mobile.jpg" alt="perfume" /></figure>
+            <figure><img src="../image-product-mobile.jpg" alt="perfume" /></figure>
             <div className="card-body">
                 <h2 className="font-montserrat font-thin">P E R F U M E</h2>
                 <h1 className="card-title font-fraunces text-[#1A1B1C]">Gabrielle Essence<br/>Eau De Parfum</h1>
@@ -22,7 +22,7 @@ export default function Card(){
     </div>
     <div className="hidden lg:flex mt-6 m-4">
         <div className="card card-side bg-white shadow-xl">
-            <figure><img src="../../images/image-product-desktop.jpg" alt="perfume" /></figure>
+            <figure><img src="../image-product-desktop.jpg" alt="perfume" /></figure>
             <div className="card-body">
                 <h2 className="font-montserrat font-thin">P E R F U M E</h2>
                 <h1 className="card-title font-fraunces text-[#1A1B1C] text-5xl">Gabrielle<br/>Essence Eau<br/>De Parfum</h1>
