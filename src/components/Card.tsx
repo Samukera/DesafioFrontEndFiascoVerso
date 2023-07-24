@@ -15,7 +15,7 @@ export default function Card(){
                 </div>
     
                 <div className="card-actions flex items-center">
-                    <button className="font-bold btn btn-wide btn-primary bg-dark-cyan border-transparent normal-case w-full hover:bg-[#1A4031] hover:border-transparent"><img src="../../images/icon-cart.svg"/>Add to Cart</button>
+                    <button className="font-bold btn btn-wide btn-primary bg-dark-cyan border-transparent normal-case w-full hover:bg-[#1A4031] hover:border-transparent"><img src="../icon-cart.svg"/>Add to Cart</button>
                 </div>
             </div>
         </div>
@@ -35,7 +35,7 @@ export default function Card(){
                 </div>
     
                 <div className="card-actions flex items-center">
-                    <button className="text-lg btn btn-wide btn-primary bg-dark-cyan border-transparent normal-case w-full hover:bg-[#1A4031] hover:border-transparent"><img src="../../images/icon-cart.svg"/>Add to Cart</button>
+                    <button className="text-lg btn btn-wide btn-primary bg-dark-cyan border-transparent normal-case w-full hover:bg-[#1A4031] hover:border-transparent"><img src="../icon-cart.svg"/>Add to Cart</button>
                 </div>
                 </div>
             </div>
